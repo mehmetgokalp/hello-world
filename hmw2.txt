@@ -7,3 +7,7 @@ Adults are ages above 19
 Children are ages 0 to 19 (inclusive) of which
 Adolescents are 10 to 19 (inclusive).
 Infants are age less than 1.
+
+
+
+Thank you :)
